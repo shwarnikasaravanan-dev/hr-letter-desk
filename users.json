@@ -4,14 +4,18 @@
   "idSalt": "c9d61b2669f6e6ba8969d4493e20693b",
   "users": {
     "be14f7c7daac273640c15c8d42fbabf2b622e5d64c922d0f751221604bf1d2e6": {
-      "salt": "PMdYhaRYQHQVVuJEiVy1bg==",
-      "iv": "ds4DxfKrLT4RulUj",
-      "wk": "HRgaVzEjhLyK8NRNeidLEKpofT5IzizskmvklhBv8u5XR4aB40b453+B3gM2FzP3",
-      "role": "admin"
+      "salt": "J3kvfThzSMj2KEZkc+G6Xw==",
+      "iv": "CtoKvrN1Cm5Yugxk",
+      "wk": "VPPakHM+ScHU4TSj9gE1XWoryw8SbS9NwQ6Ia3GEMKkzZlDcqdpOM4mJjRjK0zJ4",
+      "role": "admin",
+      "ak": {
+        "iv": "GLJe2njUkRM+924S",
+        "ct": "ijSM8tM/esaxR+CbPNu6xOCCNzQHVXfhr/sbg/vs7REkN0lW+RMGNO8NjXof8Oj1"
+      }
     }
   },
   "meta": {
-    "iv": "+ta/SpAjm3RhgHzq",
-    "ct": "24Wooo+6nvWBeo7aKpBRqnx4BZ3I/BqtuDS3WWDd5+ztLErlDuu5buhqXKYJ5S9O65CMqDRQ6guFZX97RTi0H5h8+rBeE7oL8wW2bLskbpzECw=="
+    "iv": "9Dn80XIDOsmXyo8i",
+    "ct": "Gh3RXNX+FOFe40y6t+eyY51qkIrgUYJGcvoABm7UezPfC3WhXEsJr6pWv1XtqhPGJNkC5268f/BfdHyBMbbgC58NSXDWsbkZDcieuqoThuPr7A=="
   }
 }
