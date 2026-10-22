@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "iter": 310000,
+  "idSalt": "c9d61b2669f6e6ba8969d4493e20693b",
+  "users": {
+    "be14f7c7daac273640c15c8d42fbabf2b622e5d64c922d0f751221604bf1d2e6": {
+      "salt": "PMdYhaRYQHQVVuJEiVy1bg==",
+      "iv": "ds4DxfKrLT4RulUj",
+      "wk": "HRgaVzEjhLyK8NRNeidLEKpofT5IzizskmvklhBv8u5XR4aB40b453+B3gM2FzP3",
+      "role": "admin"
+    }
+  },
+  "meta": {
+    "iv": "+ta/SpAjm3RhgHzq",
+    "ct": "24Wooo+6nvWBeo7aKpBRqnx4BZ3I/BqtuDS3WWDd5+ztLErlDuu5buhqXKYJ5S9O65CMqDRQ6guFZX97RTi0H5h8+rBeE7oL8wW2bLskbpzECw=="
+  }
+}
